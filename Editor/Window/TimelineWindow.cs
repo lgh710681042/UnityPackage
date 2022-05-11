@@ -482,7 +482,7 @@ namespace UnityEditor.Timeline
             ProjectWindowUtil.StartNameEditingIfProjectWindowExists(0, ScriptableObject.CreateInstance<DoCreateTimeline>(), "New Timeline.playable", icon, null);
         }
 
-        [MenuItem("Window/Sequencing/Timeline", false, 1)]
+        [MenuItem("Window/Sequencing/NDTimeline", false, 1)]
         public static void ShowWindow()
         {
             GetWindow<TimelineWindow>(typeof(SceneView));
