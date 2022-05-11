@@ -1,0 +1,20 @@
+{
+  "name": "com.nd.mycommandline",
+  "description": "PM Tool, DocumentUrl https://docs.qq.com/doc/DVWhkSWh6Vkl4b2dW",
+  "version": "1.0.1",
+  "unity": "2020.3",
+  "unityRelease": "10f1",
+  "displayName": "Nd MyCommandLine",
+  "keywords": [
+    "asset",
+    "resources"
+  ],
+  "dependencies": {
+    "com.unity.addressables": "1.16.19"
+  },
+  "repository": {
+    "url": "https://github.com/lgh710681042/UnityPackage.git",
+    "type": "git",
+    "revision": "527e4364e28028f20f04fc51db671eb4bb910a26"
+  }
+}
